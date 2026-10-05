@@ -30,7 +30,7 @@ Extracted 2026-10-05. Check the linked source pages for updates, revised observa
 
 ## Related research
 
-Download the reference spreadsheet: [`paper_references.xlsx`](paper_references.xlsx).
+Download the reference spreadsheet: [`paper_references.xlsx`](related%20research/paper_references.xlsx).
 
 - Croce, Mariano M., Thien T. Nguyen, Steve Raymond, and Lukas Schmid (2019). “[Government debt and the returns to innovation](https://doi.org/10.1016/j.jfineco.2018.11.010).” *Journal of Financial Economics*, 132(3), 205–225. [Bocconi repository record](https://iris.unibocconi.it/handle/11565/4012542) (the listed post-print is restricted access). The paper studies how government debt relates to the cost of capital for innovation-intensive firms and subsequent productivity and growth.
 - Brancati, Emanuele, and Marco Macchiavelli (2019). “[The information sensitivity of debt in good and bad times](https://doi.org/10.1016/j.jfineco.2019.01.002).” *Journal of Financial Economics*, 133(1), 99–112. [Sapienza repository record](http://hdl.handle.net/11573/1351620). The publisher version is not open access; no authorized public PDF was identified.
