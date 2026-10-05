@@ -27,3 +27,8 @@ Observations with missing source values are omitted. Country codes and coverage 
 - **Global Macro Database (GMD)** — [official data access](https://www.globalmacrodata.com/data.html), [variables](https://www.globalmacrodata.com/variables.html), and [research-use terms](https://www.globalmacrodata.com/license.html). GMD data are freely accessible for specified academic and non-commercial uses, but its terms prohibit re-hosting or redistributing the data, including partial or derived data, without permission. Accordingly, no GMD observations are copied into this repository. Obtain the current release directly from GMD and cite Müller, Xu, Lehbib, and Chen (2025).
 
 Extracted 2026-10-05. Check the linked source pages for updates, revised observations, full variable definitions, and applicable terms of use.
+
+## Related research
+
+- Croce, Mariano M., Thien T. Nguyen, Steve Raymond, and Lukas Schmid (2019). “[Government debt and the returns to innovation](https://doi.org/10.1016/j.jfineco.2018.11.010).” *Journal of Financial Economics*, 132(3), 205–225. [Bocconi repository record](https://iris.unibocconi.it/handle/11565/4012542) (the listed post-print is restricted access). The paper studies how government debt relates to the cost of capital for innovation-intensive firms and subsequent productivity and growth.
+- Brancati, Emanuele, and Marco Macchiavelli (2019). “[The information sensitivity of debt in good and bad times](https://doi.org/10.1016/j.jfineco.2019.01.002).” *Journal of Financial Economics*, 133(1), 99–112. [Sapienza repository record](http://hdl.handle.net/11573/1351620). The publisher version is not open access; no authorized public PDF was identified.
